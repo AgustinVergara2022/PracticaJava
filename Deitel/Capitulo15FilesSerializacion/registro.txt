@@ -1,0 +1,2 @@
+Hay un registro de transacciones no asociado para ese numero de cliente 400
+Hay un registro de transacciones no asociado para ese numero de cliente 900

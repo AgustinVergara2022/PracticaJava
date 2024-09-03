@@ -1,0 +1,5 @@
+Por ejemplo, las concordancias de las obras de William Shakespeare y Christopher
+Marlowe se han usado para cuestionar si son la misma persona. En la figura 17.18 se muestran los resultados
+del programa. En la línea 16 de la figura 17.17 se crea un objeto Pattern de expresión regular que
+usaremos para dividir las líneas de texto en sus palabras individuales. Este Pattern representa uno o más
+caracteres consecutivos de espacio en blanco (en la sección 14.7 presentamos las expresiones regulares).
